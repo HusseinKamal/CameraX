@@ -6,3 +6,8 @@ This is JetpackCompose app for preview CameraX
 You can show image from Gallery
 
 ![img2](https://github.com/HusseinKamal/CameraX/assets/29864161/7b0d2646-80fc-4080-94d3-dcddef5be416)
+
+Record and Save Video with CameraX
+
+[video1.webm](https://github.com/HusseinKamal/CameraX/assets/29864161/0fbde0ff-bb6e-4519-aa62-a274c393ce16)
+
